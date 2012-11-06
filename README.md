@@ -1,4 +1,4 @@
-R1
+R2
 ==
 
-Test repository 1
+test R2 repository
